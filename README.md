@@ -7,7 +7,7 @@ Projet réalisé dans le cadre de mon Bachelor en Cybersécurité.
 * **Recherche de Pseudos :** Vérifie la présence sur les réseaux sociaux.
 * **Audit d'Emails :** Vérifie les fuites de données (Data Breaches).
 * **Analyse de Domaine :** Google Dorks automatiques et scan VirusTotal.
-* **[NOUVEAU] Mode Investigation (Caché) :** Recherche croisée (Nom + Prénom + Tél).
+* **[NOUVEAU] Mode Caché :** Recherche croisée.
 
 ## 🛠️ Installation & Usage
 
